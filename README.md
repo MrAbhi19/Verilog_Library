@@ -11,7 +11,7 @@
 
 <p align="center"><i>A growing collection of reusable Verilog hardware cores</i></p>
 
-OSH-Library is an open collection of parameterized, reusable HDL cores — built for learning, prototyping, and dropping into your own digital design projects. Right now the focus is on **cryptographic cores**, **PRNGs**, and small **clock-domain-crossing (CDC)** building blocks.
+OSH-Library is an open collection of parameterized, reusable HDL cores — built for learning, prototyping, and dropping into your own digital design projects. Right now the focus is on **cryptographic cores**.
 
 Whether you're just getting started with Verilog or you've been doing this for years, contributions are welcome!
 
